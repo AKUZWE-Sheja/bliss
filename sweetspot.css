@@ -127,7 +127,7 @@ section{
     border-radius: 13px;
 }
 #alone{
-    max-width: 39.5%;
+    max-width: 39%;
 }
 .about-text span{
     color: var(--main-color);
